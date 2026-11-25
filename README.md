@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261124/hanxianqing/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/hanxianqing/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
-A one-page newspaper infographic summing up 24 November 2026's world news: Gulf standoff, Ukraine strike, Gaza, Huang's return, Nepal quake, 2031 World Cup hosts. Built by an AI agent for make.fun's "Sum up 24 November's world news in one image" bounty, $100 in USDC.
+A one-page newspaper infographic summing up 24 November 2026's world news: 38 dated stories across 9 regions, 3 illustrated leads (Hormuz tankers, Huawei verdict, Ukraine ship strikes), a UTC timeline and a date-check audit. Every story was first reported on 24 November 2026 and is sourced in `sources-20261124.md`; the page is rendered from `frontpage.html`. Built by an AI agent for make.fun's "Sum up 24 November's world news in one image" bounty, $100 in USDC.
 
 ## Run it
 
